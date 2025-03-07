@@ -6,7 +6,7 @@
 
 #Which sold more, bobbles or widgets?
 
-#If Bobbles are $10.99 and Widgets are $15.99 calculate overall revenue for each product (sales x price). Which product made the most revenue?
+#If Bobbles are $10.99 and Widgets are $15.99, calculate the overall revenue for each product (sales x price). Which product made the most revenue?
 
 #Which region and product sold the least?
 
